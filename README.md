@@ -49,6 +49,3 @@ This project is licensed under the GPL-3.0 License.
 Made by [givemetocode](https://github.com/givemetocode-net-hk)  
 Date: 2025/4/30 23:39
 
---- 
-
-Feel free to reach out for any questions or support!
