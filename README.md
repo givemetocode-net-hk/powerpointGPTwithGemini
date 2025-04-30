@@ -33,8 +33,6 @@ To set up PowerPointGPT, follow these steps:
 
 1. Open the application.
 2. Input your topic or keywords related to the presentation.
-3. Click the "Generate" button to create content.
-4. Customize the generated slides as needed.
 
 ## Contributing
 
