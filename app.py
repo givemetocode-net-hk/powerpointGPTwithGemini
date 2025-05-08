@@ -15,7 +15,7 @@ def send_message():
         
         api_url = "https://pptai-for-tcps-v1.deno.dev/v1/chat/completions"
         headers = {
-            "Authorization": "Bearer AIzaSyArFHUgs0FlUoE2OkVQLEfqi0s6mWKhbAA",
+            "Authorization": "Bearer ",
             "Content-Type": "application/json"
         }
         payload = {
